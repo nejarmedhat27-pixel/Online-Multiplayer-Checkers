@@ -2,13 +2,6 @@
 Real-time online multiplayer checkers in Java &amp; JavaFX. Full rule enforcement — mandatory jumps, multi-jump chains &amp; king promotion · TCP socket networking · Multithreaded move-validation · Animated JavaFX UI · SQLite game history · Replay &amp; analysis mode · 10×10 International Draughts support.
 # ♟️ CheckersOnline — Real-Time Multiplayer Checkers
 
-![Java](https://img.shields.io/badge/Java-17%2B-orange?style=flat-square&logo=java)
-![JavaFX](https://img.shields.io/badge/JavaFX-GUI%20%26%20Animation-blue?style=flat-square)
-![Sockets](https://img.shields.io/badge/Networking-TCP%20Sockets-red?style=flat-square)
-![SQLite](https://img.shields.io/badge/Database-SQLite-lightgrey?style=flat-square)
-![Threads](https://img.shields.io/badge/Concurrency-Multithreaded-green?style=flat-square)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-informational?style=flat-square)
-
 > **A full-featured real-time online multiplayer checkers game built in Java — with full rule enforcement, animated JavaFX UI, multithreaded networking, SQLite game history, and a replay & analysis mode.**
 
 ---
